@@ -14,7 +14,7 @@ We'd like you to implement a string interpolation algorithm. It's likely going t
     Assert.Equal("Hello Jim [author]", Interpolate("Hello [name] [[author]]", new Dictionary<string, string>{{"name", "Jim"}}));
 ```
 
-2. AurorAlgorithmUnitTes - It contains the unit test cases for the solution under AurorAlgorithmTest
+2. AurorAlgorithmUnitTest - It contains the unit test cases for the solution under AurorAlgorithmTest
 
  
 
