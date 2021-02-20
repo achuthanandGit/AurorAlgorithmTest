@@ -1,0 +1,13 @@
+E:\Auror Algorithm Test\AurorAlgorithmTest\bin\Debug\netcoreapp3.1\AurorAlgorithmTest.exe
+E:\Auror Algorithm Test\AurorAlgorithmTest\bin\Debug\netcoreapp3.1\AurorAlgorithmTest.deps.json
+E:\Auror Algorithm Test\AurorAlgorithmTest\bin\Debug\netcoreapp3.1\AurorAlgorithmTest.runtimeconfig.json
+E:\Auror Algorithm Test\AurorAlgorithmTest\bin\Debug\netcoreapp3.1\AurorAlgorithmTest.runtimeconfig.dev.json
+E:\Auror Algorithm Test\AurorAlgorithmTest\bin\Debug\netcoreapp3.1\AurorAlgorithmTest.dll
+E:\Auror Algorithm Test\AurorAlgorithmTest\bin\Debug\netcoreapp3.1\AurorAlgorithmTest.pdb
+E:\Auror Algorithm Test\AurorAlgorithmTest\obj\Debug\netcoreapp3.1\AurorAlgorithmTest.AssemblyInfoInputs.cache
+E:\Auror Algorithm Test\AurorAlgorithmTest\obj\Debug\netcoreapp3.1\AurorAlgorithmTest.AssemblyInfo.cs
+E:\Auror Algorithm Test\AurorAlgorithmTest\obj\Debug\netcoreapp3.1\AurorAlgorithmTest.csproj.CoreCompileInputs.cache
+E:\Auror Algorithm Test\AurorAlgorithmTest\obj\Debug\netcoreapp3.1\AurorAlgorithmTest.dll
+E:\Auror Algorithm Test\AurorAlgorithmTest\obj\Debug\netcoreapp3.1\AurorAlgorithmTest.pdb
+E:\Auror Algorithm Test\AurorAlgorithmTest\obj\Debug\netcoreapp3.1\AurorAlgorithmTest.genruntimeconfig.cache
+E:\Auror Algorithm Test\AurorAlgorithmTest\obj\Debug\netcoreapp3.1\AurorAlgorithmTest.csprojAssemblyReference.cache
